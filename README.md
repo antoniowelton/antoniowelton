@@ -23,12 +23,13 @@
 <br><br>
 
 ## Alguns projetos acadêmicos:
+- [Currículo Virtual](https://antoniowelton.github.io/curriculo-online/)
 - [Tabela Periódica](https://antoniowelton.github.io/projeto-tabela-periodica/)
 - [Social Media](https://antoniowelton.github.io/projeto-socialmedia/)
 - [Android](https://antoniowelton.github.io/projeto-android/)
 - [Google Glass](https://antoniowelton.github.io/projeto-google-glass/)
 - [Cordel](https://antoniowelton.github.io/projeto-cordel/)
-- [Currículo Virtual](https://antoniowelton.github.io/curriculo-online/)
+
 
 ## Apaixonado por:
 
