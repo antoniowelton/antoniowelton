@@ -1,5 +1,5 @@
 
-### Olá, eu sou Antonio Welton, estudante de Desenvolvimento de Sistemas✌🏻<br>
+### Olá, eu sou Antonio Welton, graduando em Análise e Desenvolvimento de Sistemas pelo Senac EAD ✌🏻<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ant.welton/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-welton-barbosa-silva-5ba495172/)
