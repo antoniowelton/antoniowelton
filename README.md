@@ -8,8 +8,7 @@
 
 ### Meu portfólio virtual - [CURRÍCULO](https://antoniowelton.github.io/curriculo-virtual-ti-2025/)<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniowelton&show_icons=true&theme=highcontrast)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniowelton&langs_count=8)](https://github.com/antoniowelton)<br>
+
 
 ## Tecnologias que uso no meu dia a dia! <br>
 
@@ -37,16 +36,16 @@
 
 <div style="display: inline-block">
     <img align=center alt="xbox" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
-    <img align=center alt="xbox" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+    <img align=center alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </div><br><br>
 
 ## Meus hobbys preferidos:
 
 - Acampar
 - Cutelaria
-- Armas
 - Games
 - Viagens
+- Codar
 
 ## Contato:
 
