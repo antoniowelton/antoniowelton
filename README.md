@@ -23,7 +23,7 @@
 <br><br>
 
 ## Alguns projetos acadêmicos:
-- [Portfólio](https://antoniowelton.github.io/curriculo-virtual-ti-2025/)
+- [Portfólio](https://antoniowelton.github.io/curriculo-virtual-ti-2026/)
 - [Currículo Virtual](https://antoniowelton.github.io/curriculo-online/)
 - [Tabela Periódica](https://antoniowelton.github.io/projeto-tabela-periodica/)
 - [Social Media](https://antoniowelton.github.io/projeto-socialmedia/)
