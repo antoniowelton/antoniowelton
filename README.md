@@ -23,6 +23,7 @@
 <br><br>
 
 ## Alguns projetos acadêmicos:
+- [Calculadora de CR](https://antoniowelton.github.io/Calculadora-de-Coeficiente-de-Rendimento--CR-/)
 - [Portfólio](https://antoniowelton.github.io/curriculo-virtual-ti-2026/)
 - [Currículo Virtual](https://antoniowelton.github.io/curriculo-online/)
 - [Tabela Periódica](https://antoniowelton.github.io/projeto-tabela-periodica/)
